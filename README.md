@@ -13,7 +13,7 @@ Utilizei o "Gemini" para revisar minha pesquisa sobre os Mistérios da IA, estru
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como desvendar os segredos da IA, desde seus primórdios até os avanços mais recentes, e a entender como ela está impactando diversos setores da sociedade.
 
-https://ebookmaker.ai/desvendando-os-misterios-da-ia
+[LINK PARA O E-BOOK AQUI](https://ebookmaker.ai/desvendando-os-misterios-da-ia)
 
 ## 💭 Reflexão
 Criar este e-book foi uma ótima experiência para aprendizado sobre IA.
